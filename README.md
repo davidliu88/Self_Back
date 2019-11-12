@@ -9,6 +9,7 @@
 ├─ 书籍
 │    ├─ Python黑帽子_黑客与渗透测试编程之道.pdf
 │    ├─ The-hacker-playbook-3-pdf.pdf
+│    ├─ 黑客傻瓜书：第6版.pdf
 │    └─ Violent_Python.pdf
 ├─ 亮神十年渗透经验分享
 │    ├─ 001_windows提权-快速查找exp.pdf
