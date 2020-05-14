@@ -6,6 +6,15 @@
 
 <pre><code>.
 ├─ README.md
+├─ Java安全漫谈
+│    ├─ Java安全漫谈 - 01.反射篇(1).pdf
+│    ├─ Java安全漫谈 - 02.反射篇(2).pdf
+│    ├─ Java安全漫谈 - 03.反射篇(3).pdf
+│    ├─ Java安全漫谈 - 04.RMI篇(1).pdf
+│    ├─ Java安全漫谈 - 05.RMI篇(2).pdf
+│    ├─ Java安全漫谈 - 06.RMI篇(3).pdf
+│    ├─ Java安全漫谈 - 07.反序列化篇(1).pdf
+│    └─ Java安全漫谈 - 08.反序列化篇(2).pdf
 ├─ 书籍
 │    ├─ Python黑帽子_黑客与渗透测试编程之道.pdf
 │    ├─ The-hacker-playbook-3-pdf.pdf
@@ -141,5 +150,6 @@
 │    ├─ SensePost_Eye_of_a_Needle.pdf
 │    └─ 内网穿透_Presenting-Tunna-v1.1a.pdf
 └─ 工具使用
-       └─ BurpSuite实战指南.pdf
+       ├─ BurpSuite实战指南.pdf
+       └─ CobaltStrike4.0用户手册_中文翻译.pdf
 </code></pre>
