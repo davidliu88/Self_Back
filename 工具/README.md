@@ -14,7 +14,7 @@
   * [Charles](#charles)
   * [菜刀](#菜刀)
   * [啊D注入工具](#啊d注入工具)
-  * [Jetbrains 2020.1全家桶破解补丁](#jetbrains)
+  * [Jetbrains 全家桶](#jetbrains)
 
 ## BurpSuite
 
@@ -138,7 +138,12 @@
 
 ## Jetbrains
 
-*盗版作者估计是被警告了，2020.1后期没找到新的补丁*
+*知了大神估计是被警告了，2020.1后期没找到新的基于他的补丁*
 
-- **[仅支持Jetbrains 2020.1版本及之前版本](https://cloud.189.cn/t/Rzaq2ijEBR3i)** *访问码:nsr4*
+- **[仅支持2020.1版本及之前版本](https://cloud.189.cn/t/Rzaq2ijEBR3i)** *访问码:nsr4*
 
+*找到一枚后期魔改的补丁，支持2020.1.2及之前版本*
+
+- **[据说支持2020.1.2版本及之前版本](https://cloud.189.cn/t/2AniMzMvmq6j)** *访问码:qss2*
+
+![](/工具/Images/jb_2020.1.2_Crack.png)
