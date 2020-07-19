@@ -16,9 +16,15 @@
   * [啊D注入工具](#啊d注入工具)
   * [Jetbrains 全家桶](#jetbrains)
 
+[天翼云合集下载](https://cloud.189.cn/t/E7fyIfuQRzu2) *fm86*
+
 ## BurpSuite
 
 ![](/工具/Ico/Burp-suite.ico)
+
+> **BurpSuite 2020.7**
+
+- **[百度云 - Zip包](https://pan.baidu.com/s/1Umg1ka4g7fjrFhnS12WH2g)** *提取码: e6g3* *解压密码：password.txt内的全部内容*
 
 > **BurpSuite 2020.5**
 
@@ -43,6 +49,8 @@
 - **[天翼云](https://cloud.189.cn/t/Rryi63URziee)** *访问码：4tb4*
 
 ## AWVS
+
+- **[AWVS_Windows_13.0.200625101_x64_破解](https://cloud.189.cn/t/emaErurMjYbm)** *访问码：3tjv*
 
 - **[AWVS_Windows_13.0.200401171_x64_破解](https://cloud.189.cn/t/YZbmAzfuMvmm)** *访问码：1xc9*
 
@@ -70,6 +78,10 @@
 
 - **[密码:7JpT48a7Y2fv](https://pan.baidu.com/s/1F758v3fQ9egeyCCPDiGLNA)** *提取码：u05x*
 
+> **IDA Pro 7.0-吾爱**
+
+- **[天翼云](https://cloud.189.cn/t/qAzUJbJJny2m)** *访问码：qph6*
+
 > **IDA Pro 7.4**
 
 `ida 7.4 wraps opcode bytes to the next line. regret`
@@ -80,15 +92,15 @@
 
 ![](/工具/Ico/CobaltStrike4.0.ico)
 
-- **[Mega](https://mega.nz/file/fkhSkKZC#DmSwSNlZ3EvfPewywe4T1Vq1JNmc0a6Rdy4GYIPebl8)**
+- **[天翼云](https://cloud.189.cn/t/YBbYRzMVfaui)** *访问码:ue0s*
 
 ## Nessus
 
 - **[Nessus_8_VM12](https://cloud.189.cn/t/RFvmequUNB3u)** *访问码：2ojd*
 
-- **[Nessus_8.2.3/8.9.1_Windows](https://cloud.189.cn/t/U7Zfii3u2yMj)** *访问码：ml9h*
+- **[Nessus_8.2.3/8.9.1/8.10.1_Windows](https://cloud.189.cn/t/U7Zfii3u2yMj)** *访问码：ml9h*
 
-- **[数据库 20191011 - 20200416](https://cloud.189.cn/t/6NjMjyEBrUrm)** *访问码：bw7q*
+- **[数据库 20191011 - ~](https://cloud.189.cn/t/6NjMjyEBrUrm)** *访问码：bw7q*
 
 ![](/工具/Images/nessus.jpg)
 
@@ -139,6 +151,8 @@
 ## Jetbrains
 
 *知了大神估计是被警告了，2020.1后期没找到新的基于他的补丁*
+
+- **[支持2020.1.3/2020.1.4版本](https://cloud.189.cn/t/VJZjEnv2EF3y)** *访问码:jq4z*
 
 - **[仅支持2020.1版本及之前版本](https://cloud.189.cn/t/Rzaq2ijEBR3i)** *访问码:nsr4*
 
